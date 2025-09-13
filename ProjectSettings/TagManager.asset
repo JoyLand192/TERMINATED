@@ -41,3 +41,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Guide
+    uniqueID: 2937109717
+    locked: 0
+  - name: CR
+    uniqueID: 4111001111
+    locked: 0
